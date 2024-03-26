@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shahnawaz Husain</h1>
 <h3 align="center">A Passionate Data Science Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/Shahnawaz-Husain-Naqvi/Shahnawaz-Husain-Naqvi/assets/157488204/6176a6ac-cecf-4d29-9d1c-8b05d0e970b3)">
+<img align="right" alt="coding" width="400" src="![image](https://github.com/Shahnawaz-Husain-Naqvi/Shahnawaz-Husain-Naqvi/assets/157488204/6176a6ac-cecf-4d29-9d1c-8b05d0e970b3)"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahnawaz&label=Profile%20views&color=0e75b6&style=flat" alt="shahnawaz" /> </p>
 
