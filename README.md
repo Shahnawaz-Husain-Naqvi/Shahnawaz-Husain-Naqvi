@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shahnawaz Husain</h1>
 <h3 align="center">A Passionate Data Science Engineer from India</h3>
 
-<img align ="right" alt="coding" width="400" src="https://github.com/Shahnawaz-Husain-Naqvi/Shahnawaz-Husain-Naqvi/assets/157488204/d2e200f7-a6b5-4051-b7f6-cb0c974e9b48"/>
+<img align ="right" alt="coding" width="400" src="https://github.com/Shahnawaz-Husain-Naqvi/Shahnawaz-Husain-Naqvi/assets/157488204/67baa69a-aa4b-4917-aa84-0bc4bcdc1d2f.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahnawaz-husain-naqvi&label=Profile%20views&color=0e75b6&style=flat" alt="shahnawaz-husain-naqvi.gif" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahnawaz-husain-naqvi&label=Profile%20views&color=0e75b6&style=flat" alt="shahnawaz-husain-naqvi" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning and Deep Learning**
 
