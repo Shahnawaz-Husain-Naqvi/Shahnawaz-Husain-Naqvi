@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shahnawaz Husain</h1>
 <h3 align="center">A Passionate Data Science Engineer from India</h3>
 
-<img align ="right" alt="coding" width="400" src="![image](https://github.com/Shahnawaz-Husain-Naqvi/Shahnawaz-Husain-Naqvi/assets/157488204/cc41139f-528e-4add-a11a-42fa2123187e)
+<img align ="right" alt="coding" width="400" src="![image](https://github.com/Shahnawaz-Husain-Naqvi/Shahnawaz-Husain-Naqvi/assets/157488204/5f73673c-2f9d-4f16-baea-f08bfa58337f)
 "/>
 
 
