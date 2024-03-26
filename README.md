@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shahnawaz Husain</h1>
 <h3 align="center">A Passionate Data Science Engineer from India</h3>
 
+<img align="right" alt="coding" width="400" src="![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0yZ1OuiBwhJrZ5QWidUjvz&ust=1711561631448000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDE-Ym-koUDFQAAAAAdAAAAABAE)">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahnawaz-husain-naqvi&label=Profile%20views&color=0e75b6&style=flat" alt="shahnawaz-husain-naqvi" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning and Deep Learning**
