@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shahnawaz Husain</h1>
 <h3 align="center">A Passionate Data Science Engineer from India</h3>
 
-<img align ="right" alt="coding" width="400" src="C:\Users\shahn\Downloads\040823_chatgpt_feat.webp"/>
+<img align ="right" alt="coding" width="400" src="C:\Users\shahn\Downloads\040823_chatgpt_feat.webp">
 
 
 
